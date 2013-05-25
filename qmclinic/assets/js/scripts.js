@@ -8,7 +8,8 @@ function initialise() {
 }
 
 function loadMap() {
-  var locationsLatLng = new google.maps.LatLng(10.809501, 106.678448);
+  // var locationsLatLng = new google.maps.LatLng(10.809501, 106.678448);
+  var locationsLatLng = new google.maps.LatLng(10.810164, 106.678534);
 
   var mapOptions = {
     center: locationsLatLng,
@@ -35,8 +36,10 @@ function loadMarker() {
     '<br/>' + '(08) 3-997-4945' +
     '<br/>' + '<a href="mailto:info@quangminhclinic.com">info@quangminhclinic.com</a>';
 
+  infoWindow.setContent(infoContent);
+  infoWindow.open(map, marker);
+
   google.maps.event.addListener(marker, 'click', function() {
-    infoWindow.setContent(infoContent);
     infoWindow.open(map, marker);
   });
 }
