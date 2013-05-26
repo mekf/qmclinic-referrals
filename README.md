@@ -1,3 +1,3 @@
-QMClinic Referrals
+Quang Minh Clinic static
 ---
-Static sites, providing back links to http://quangminhclinic.com
+Static sites, link to http://quangminhclinic.com
