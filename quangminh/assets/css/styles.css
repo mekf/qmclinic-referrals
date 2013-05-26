@@ -24,6 +24,17 @@ body {
           box-shadow: 0 0px 0 4px rgba(0,0,0,.025), 0px -1px 1px rgba(0,0,0,.025);
 }
 
+.address-info {
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+
+  text-align: center;
+  background-color: #CDE7DD;
+  color: #34282C;
+  margin-bottom: 15px;
+}
+
 /* Google Maps */
 .map_wrapper {
   width: 100%;
