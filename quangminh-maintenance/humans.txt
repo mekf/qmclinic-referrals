@@ -1,0 +1,13 @@
+/* TEAM */
+	Developer / Maintainer: Minh, HA
+	Enspiral Services Ltd
+	www.enspiral.comn
+	From: Wellington, New Zealand
+
+/* THANKS */
+	
+
+/* SITE */
+	Last update: 25/05/2013
+	Language: English
+	Doctype: HTML
