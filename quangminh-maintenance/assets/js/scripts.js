@@ -36,7 +36,7 @@ function loadMarker() {
 }
 
 function buildInfoWindow() {
-  var infoContent = '<b>' + 'Quang Minh Clinic - Trung Tâm Laser Y Học' + '</b>' +
+  var infoContent = '<b>' + 'Quang Minh Clinic' + '</b>' +
     '<br/>' + '736A Nguyễn Kiệm' +
     '<br/>' + 'Phường 4' +
     '<br/>' + 'Quận Phú Nhuận - TP. Hồ Chí Minh' +
